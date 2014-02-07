@@ -1,0 +1,16 @@
+development:
+   bucket: "talott_wpcc_forms"
+   access_key_id: "4AyXBawaPOnN/jA7m/brd3Vq6nM+tUGLEIcUeW7c"
+   secret_access_key: "AKIAI5WHCVCS2ANIOR4A"
+
+test:
+   bucket: "talott_wpcc_forms"
+   access_key_id: "4AyXBawaPOnN/jA7m/brd3Vq6nM+tUGLEIcUeW7c"
+   secret_access_key: "AKIAI5WHCVCS2ANIOR4A"
+
+
+production:
+   bucket: "talott_wpcc_forms_prod"
+   access_key_id: "4AyXBawaPOnN/jA7m/brd3Vq6nM+tUGLEIcUeW7c"
+   secret_access_key: "AKIAI5WHCVCS2ANIOR4A"
+
